@@ -221,7 +221,7 @@ h4
     display: block;
 }
 .flexslider .slides > li {
-    display: none;  
+    display: block;
     padding: 0;
     position: relative;
     -webkit-backface-visibility: hidden;
@@ -282,7 +282,7 @@ h4
 /* start divider */
 .divider
     {
-        background: url('../images/divider-bg.jpg');
+        background: url('../images/divider-bg.webp');
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
